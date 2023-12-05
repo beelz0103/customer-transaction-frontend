@@ -12,4 +12,4 @@ Steps to run the app:
 This will start the development server, and you can view the app by opening your browser and navigating to http://localhost:5173.
 
 DEMO:
-![](https://github.com/customer-transaction-frontend/demo.gif)
+![](https://github.com/beelz0103/customer-transaction-frontend/blob/main/demo.gif)
